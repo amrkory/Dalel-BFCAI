@@ -6,8 +6,6 @@
 6-Menna Mahmoud Abdo - 7
 7-Shrouk Khaled Rabie - 3
 
-
-
 Dalel: Your History Companion
 Dalel is an app that brings history to life.
 It allows users to explore different historical periods, learn about famous figures, and shop for related books and souvenirs.
